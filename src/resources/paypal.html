@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<head>
+    <!-- Add meta tags for mobile and IE -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <style>
+
+      .container {
+        position: absolute;
+        left:0;
+        right:0;
+        top:0;
+        bottom:0;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+      }
+      #paypal-button-container {
+        width: 85%;
+      }
+      #go-back-button {
+	      text-align: center;
+        background-color: #3067BA;
+        border-radius: 4px;
+        margin: 10px;
+        width: 30%;
+        padding: 10px;
+        color: white;
+        font-family: 'system font';
+      }
+    </style>
+
+    <title>payment</title>
+</head>
+
+<body>
+    <!-- Set up a container element for the button -->
+
+    <div class="container">
+      <div id="paypal-button-container"></div>
+      <div id="go-back-button">
+        Cancel
+      </div>
+    </div>
+    <!-- Include the PayPal JavaScript SDK -->
+    <!--<script src="https://www.paypal.com/sdk/js?client-id=Ac_kK_DTtXz3hf0Crisk4RGQqWlI7OFdhoRt-UvycA0nbXcLH4XU7N7x1fHepTecZCgC128fiMWunKQi"></script> -->
+    <script src="https://www.paypal.com/sdk/js?client-id=AbR2gsRmgU5YJHsptf-5SlNzooabO3kLpZeY6VPW-YI8-gRDAU-4BJOhi-K30-_Byi_FgUXyAP7Oz3El"></script>
+
+
+</body>

@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "liblu-mobile",
+    "slug": "liblu-mobile",
+    "sdkVersion": "32.0.0",
+    "version": "1.0.0",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#3067BA"
+    },
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": ""
+  }
+}

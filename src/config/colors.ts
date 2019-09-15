@@ -1,0 +1,11 @@
+export const BLUE = '#3067BA';
+export const GREEN = '#36C7AB';
+export const YELLOW = '#ffc600';
+export const ORANGE = '#C1884D';
+export const RED = '#B7474B';
+export const GRAY = '#3a3a3a';
+export const BLACK = '#000000';
+export const LIGHT_GRAY = '#bbbbbb';
+export const LIGHTER_GRAY= '#eeeeee';
+export const WHITE = '#ffffff';
+export const LIGHT_BLUE = '#cfddf3';
