@@ -29,7 +29,7 @@
     "graphql-tag": "^2.10.1",
     "graphql-tools": "^4.0.4",
     "i18n-js": "^3.2.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "metro-react-native-babel-preset": "^0.54.0",
     "native-base": "^2.12.1",
     "prop-types": "^15.5.7",
